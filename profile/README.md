@@ -10,7 +10,7 @@ Spolu si povídáme o různých programátorských nástrojích, učíme se prog
 
 Tady postupně přibývá, co už jsme probrali: https://github.com/Java-Klub/Programy
 
-A aby to celé nebyla jenom hrooozná nuuuda, tak v našem klubu vyvýjíme i vlastni modifikace do hry Minecraft (samozřejmě do té originální Java Edition).
+A aby to celé nebyla jenom hrooozná nuuuda, tak v našem klubu vyvíjíme i vlastni modifikace do hry Minecraft (samozřejmě do té originální Java Edition).
 V druhé části pak nastartujem vlastní Minecraft server a všechny naše modifikace samozřejmě pořádně otestujeme :wink:
 
 Celé to děláme hlavně pro zábavu, ale vlastně taky pro vzdělání.
