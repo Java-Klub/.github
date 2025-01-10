@@ -1,3 +1,5 @@
+[Adam Sotona](https://github.com/asotona)
+
 # Java Klub Programování
 
 ## Kdy, kde, kdo, jak, proč a za kolik?
