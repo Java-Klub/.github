@@ -2,6 +2,8 @@
 
 # Java Klub Programování
 
+## 14.2. se klub nekoná !!!
+
 ## Kdy, kde, kdo, jak, proč a za kolik?
 
 Scházíme se každý pátek odpoledne od 14:30 v počítačové učebně na základní škole.
