@@ -35,5 +35,8 @@ Další penízky si můzete schovat do kasičky na nějaký ten počítač, aby 
 - Apache NetBeans 23 + JDK 23 instalátory: https://www.codelerity.com/netbeans/
 - NBM balíček s důležitou aktualizací Apache NetBeans 23 pro náš klub: https://github.com/asotona/netbeans/releases/download/23-update/org-netbeans-modules-java-file-launcher.nbm
 
-## Doporučená literatura (pouze pro velmi vášnivé čtenáře a půlnoční samouky)
-- [Pecinovský Rudolf, Pavlíčková Jarmila: Začínáme programovat v jazyku Java](https://www.grada.cz/zaciname-programovat-v-jazyku-java-12200)
+## Zajímavosti
+- [Z historie Javy](Java-zajimavosti.md)
+- [Z historie NetBeans](NetBeans.md)
+- [Základy Javy](Java-zaklady.md) 
+- Doporučená literatura: [Pecinovský Rudolf, Pavlíčková Jarmila: Začínáme programovat v jazyku Java](https://www.grada.cz/zaciname-programovat-v-jazyku-java-12200)
