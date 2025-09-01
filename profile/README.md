@@ -2,6 +2,19 @@
 
 # Java Klub Programování
 
+## Školní rok 2025 - 2026
+
+**Poprvé se sejdeme v pátek 3.10.** a probereme čemu bychom se chtěli v tomto školním roce věnovat více a čemu méně:
+
+1. Budeme pokračovat v základní výuce programování na našich příkladech (https://github.com/Java-Klub/Programy). Tady mám dobrou zprávu: původní nápad vylepšit Javu aby se lépe učila (https://openjdk.org/projects/amber/design-notes/on-ramp), který jsme experimentálně testovali v našem klubu, bude částečně i díky naší zpětné vazbě již pevnou součástí Javy verze 25.
+2. Můžeme pokračovat v programování vlastních modů do Mincraftu a jejich testování ;) Tady mám možná taky dobrou zprávu: osobně jsem mluvil s vysokým manažerem ve firmě Microsoft a prý připravují oficiální vývojové prostředí pro Minecraft, tak se snad dočkáme něčeho lepšího, než je Forge nebo NeoForge.
+3. Můžeme pokračovat v programování bojových robo-králíků (https://battlecode.org), budeme se těšit s jakou novinkou přijdou organizátoři z [MIT](https://www.mit.edu) pro další sezónu a kdo ví, možná se i zůčastníme ;)
+4. Mohu Vám také předvést různé novinky ze světa programování, Javy a AI. Aktuálně z [JVM Language Summit](https://openjdk.org/projects/mlvm/jvmlangsummit/) a později i aktuality z [Devoxx Belgium](https://devoxx.be).
+5. Nebo se můžeme věnovat i dalším tématům ze světa programování.
+
+**V pátek 10.10. se klub nekoná**, protože přednáším o AI v Javě na [Devoxx Belgium](https://devoxx.be). Takže hned další týden se můžete těšit na spoustu zajímavostí.
+
+
 ## Kdy, kde, kdo, jak, proč a za kolik?
 
 Scházíme se každý pátek odpoledne od 14:30 v počítačové učebně na základní škole.
